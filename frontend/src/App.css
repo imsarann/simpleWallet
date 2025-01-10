@@ -1,0 +1,16 @@
+.glitter {
+    animation: glitter 1s infinite alternate;
+  }
+  
+  @keyframes glitter {
+    0% {
+      color: #f39c12; /* Gold or shining color */
+    }
+    50% {
+      color: #f1c40f; /* Light golden shine */
+    }
+    100% {
+      color: #e74c3c; /* Red or another contrasting color */
+    }
+  }
+  
