@@ -7,8 +7,8 @@ export default function Wallet() {
     const { mnemonics } = location.state || {};
     console.log("heyhey", mnemonics)
   return (
-    <div className='bg-gray-950'>
-      <div className='text-white'>Your Mnemonic Seeds</div>
+    <div >
+      <div >Your Mnemonic Seeds</div>
       {/* <div className='w-full bg-gray-900 text-white text-[20px] py-5 px-10 grid grid-cols-6' type="text">    */}
         <Box contents={mnemonics}/> 
         <List publicKey={"akgkjsnakjdsgfnnlkasjdbgbkasjbdgbkasjgaskldjg"} privateKey={"akgkjsnakjdsgfnnlkasjdbgbkasjbdgbkasjgaskldjg"} coin={"SOLANA"}/>

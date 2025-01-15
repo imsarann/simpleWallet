@@ -9,8 +9,7 @@ function SolanaWallet(){
 
 function Dashboard() {
   return (
-    <div>
-        asdffs
+    <div >
       <Button text={"Generate seed phrase"}/>
       <InputBox  text={"asdfasdf"} />
 
