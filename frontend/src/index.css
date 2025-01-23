@@ -2,5 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 body {
-    @apply min-h-screen bg-davyGray;
+    @apply min-h-screen bg-black;
   }

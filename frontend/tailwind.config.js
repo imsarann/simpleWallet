@@ -9,10 +9,9 @@ export default {
 
     },
     colors:{
-      'oBlue' : '#011638',
-      'lightBlue' : '#2e294e',
-      'davyGray' : '#5B5B5B',
-      'nyanza' : '#C9C19F'
+      'raisinBlack' : '#111111',
+      'black' : "#000000",
+      'white' : "#ffffff"
     }
   },
   plugins: [],
