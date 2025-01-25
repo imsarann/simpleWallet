@@ -9,9 +9,10 @@ export default {
 
     },
     colors:{
-      'raisinBlack' : '#111111',
+      'raisinBlack' : '#435058',
       'black' : "#000000",
-      'white' : "#ffffff"
+      'white' : "#ffffff",
+      'color1' : "#e5484d"
     }
   },
   plugins: [],
