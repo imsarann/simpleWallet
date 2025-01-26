@@ -1,4 +1,5 @@
 export default function Button({ text , onClickHandler }) {
+  console.log('1');
   return (
     <div>
       <button
